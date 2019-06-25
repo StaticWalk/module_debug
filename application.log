@@ -1,0 +1,351 @@
+2019-06-11 16:05:01 INFO testing is ok!
+2019-06-11 16:05:02 INFO Starting ModuleDebugApplication on DESKTOP-409V92T with PID 10068 (D:\module_debug\target\classes started by xiongxiaoyu in D:\module_debug)
+2019-06-11 16:05:02 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-11 16:05:02 INFO No active profile set, falling back to default profiles: default
+2019-06-11 16:05:05 INFO Started ModuleDebugApplication in 3.653 seconds (JVM running for 5.509)
+2019-06-11 16:05:31 INFO Starting MyRecvTest on DESKTOP-409V92T with PID 5744 (started by xiongxiaoyu in D:\module_debug)
+2019-06-11 16:05:31 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-11 16:05:31 INFO No active profile set, falling back to default profiles: default
+2019-06-11 16:05:38 INFO Started MyRecvTest in 7.233 seconds (JVM running for 9.289)
+2019-06-11 16:05:38 INFO Receiver ==================: User(id=1, username=小行星, age=88)
+2019-06-11 16:05:38 INFO Receiver ==================: 小行星
+2019-06-11 16:05:38 INFO Receiver ==================: 88
+2019-06-11 16:25:56 INFO Starting MyRecvTest on DESKTOP-409V92T with PID 14200 (started by xiongxiaoyu in D:\module_debug)
+2019-06-11 16:25:56 INFO No active profile set, falling back to default profiles: default
+2019-06-11 16:26:02 INFO Started MyRecvTest in 5.796 seconds (JVM running for 7.465)
+2019-06-11 16:26:02 INFO Receiver ==================: User(id=1, username=小行星, age=88)
+2019-06-11 16:26:02 INFO Receiver ==================: 小行星
+2019-06-11 16:26:02 INFO Receiver ==================: 88
+2019-06-11 16:29:55 INFO testing is ok!
+2019-06-11 16:29:56 INFO Starting ModuleDebugApplication on DESKTOP-409V92T with PID 15472 (D:\module_debug\target\classes started by xiongxiaoyu in D:\module_debug)
+2019-06-11 16:29:56 INFO No active profile set, falling back to default profiles: default
+2019-06-11 16:29:59 INFO Started ModuleDebugApplication in 4.137 seconds (JVM running for 6.1)
+2019-06-11 16:30:23 INFO Starting ModuleDebugApplication on DESKTOP-409V92T with PID 16692 (D:\module_debug\target\classes started by xiongxiaoyu in D:\module_debug)
+2019-06-11 16:30:23 INFO No active profile set, falling back to default profiles: default
+2019-06-11 16:30:26 INFO Started ModuleDebugApplication in 3.275 seconds (JVM running for 4.897)
+2019-06-11 16:33:01 INFO Starting ModuleDebugApplication on DESKTOP-409V92T with PID 18592 (D:\module_debug\target\classes started by xiongxiaoyu in D:\module_debug)
+2019-06-11 16:33:01 INFO No active profile set, falling back to default profiles: default
+2019-06-11 16:33:04 INFO Started ModuleDebugApplication in 3.599 seconds (JVM running for 5.321)
+2019-06-11 16:33:16 INFO Starting ModuleDebugApplication on DESKTOP-409V92T with PID 13652 (D:\module_debug\target\classes started by xiongxiaoyu in D:\module_debug)
+2019-06-11 16:33:16 INFO No active profile set, falling back to default profiles: default
+2019-06-11 16:33:19 INFO Started ModuleDebugApplication in 3.396 seconds (JVM running for 5.703)
+2019-06-13 09:22:27 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 20228 (started by xiongxiaoyu in D:\module_debug)
+2019-06-13 09:22:27 INFO No active profile set, falling back to default profiles: default
+2019-06-13 09:22:38 INFO Started UserRepositoryTest in 10.506 seconds (JVM running for 12.95)
+2019-06-18 15:54:08 INFO Starting ModuleDebugApplication on DESKTOP-409V92T with PID 16224 (D:\module_debug\target\classes started by xiongxiaoyu in D:\module_debug)
+2019-06-18 15:54:08 INFO No active profile set, falling back to default profiles: default
+2019-06-18 15:54:16 INFO Started ModuleDebugApplication in 8.934 seconds (JVM running for 11.964)
+2019-06-18 15:55:29 INFO Starting ModuleDebugApplication on DESKTOP-409V92T with PID 18312 (D:\module_debug\target\classes started by xiongxiaoyu in D:\module_debug)
+2019-06-18 15:55:29 INFO No active profile set, falling back to default profiles: default
+2019-06-18 15:55:32 INFO Started ModuleDebugApplication in 3.165 seconds (JVM running for 4.912)
+2019-06-18 15:56:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:36,name:scheduling-1
+2019-06-18 15:56:11 INFO Starting ModuleDebugApplication on DESKTOP-409V92T with PID 12972 (D:\module_debug\target\classes started by xiongxiaoyu in D:\module_debug)
+2019-06-18 15:56:11 INFO No active profile set, falling back to default profiles: default
+2019-06-18 15:56:14 INFO Started ModuleDebugApplication in 3.612 seconds (JVM running for 5.81)
+2019-06-18 15:57:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:36,name:scheduling-1
+2019-06-18 15:58:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:36,name:scheduling-1
+2019-06-18 15:59:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:58,name:scheduling-2
+2019-06-18 16:00:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:36,name:scheduling-1
+2019-06-18 16:01:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:59,name:scheduling-3
+2019-06-18 16:02:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:58,name:scheduling-2
+2019-06-18 16:03:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:60,name:scheduling-4
+2019-06-18 16:04:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:36,name:scheduling-1
+2019-06-18 16:05:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:61,name:scheduling-5
+2019-06-18 16:06:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:59,name:scheduling-3
+2019-06-18 16:07:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:59,name:scheduling-3
+2019-06-18 16:08:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:59,name:scheduling-3
+2019-06-18 16:09:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:59,name:scheduling-3
+2019-06-18 16:10:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:59,name:scheduling-3
+2019-06-18 16:11:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:64,name:scheduling-8
+2019-06-18 16:12:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:64,name:scheduling-8
+2019-06-18 16:13:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:64,name:scheduling-8
+2019-06-18 16:14:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:64,name:scheduling-8
+2019-06-18 16:15:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:66,name:scheduling-10
+2019-06-18 16:16:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:62,name:scheduling-6
+2019-06-18 16:17:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:62,name:scheduling-6
+2019-06-18 16:18:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:62,name:scheduling-6
+2019-06-18 16:19:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:60,name:scheduling-4
+2019-06-18 16:20:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:60,name:scheduling-4
+2019-06-18 16:21:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:36,name:scheduling-1
+2019-06-18 16:22:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:65,name:scheduling-9
+2019-06-18 16:23:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:61,name:scheduling-5
+2019-06-18 16:24:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:61,name:scheduling-5
+2019-06-18 16:25:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:61,name:scheduling-5
+2019-06-18 16:26:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:61,name:scheduling-5
+2019-06-18 16:27:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:61,name:scheduling-5
+2019-06-18 16:28:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:61,name:scheduling-5
+2019-06-18 16:29:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:59,name:scheduling-3
+2019-06-18 16:30:00 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:59,name:scheduling-3
+2019-06-18 16:30:34 INFO Starting ModuleDebugApplication on DESKTOP-409V92T with PID 18132 (D:\module_debug\target\classes started by xiongxiaoyu in D:\module_debug)
+2019-06-18 16:30:34 INFO No active profile set, falling back to default profiles: default
+2019-06-18 16:31:26 INFO Starting ModuleDebugApplication on DESKTOP-409V92T with PID 18060 (D:\module_debug\target\classes started by xiongxiaoyu in D:\module_debug)
+2019-06-18 16:31:26 INFO No active profile set, falling back to default profiles: default
+2019-06-18 16:32:25 INFO Starting ModuleDebugApplication on DESKTOP-409V92T with PID 17540 (D:\module_debug\target\classes started by xiongxiaoyu in D:\module_debug)
+2019-06-18 16:32:25 INFO No active profile set, falling back to default profiles: default
+2019-06-18 16:32:39 INFO Starting ModuleDebugApplication on DESKTOP-409V92T with PID 16576 (D:\module_debug\target\classes started by xiongxiaoyu in D:\module_debug)
+2019-06-18 16:32:39 INFO No active profile set, falling back to default profiles: default
+2019-06-18 16:32:51 INFO Starting ModuleDebugApplication on DESKTOP-409V92T with PID 15852 (D:\module_debug\target\classes started by xiongxiaoyu in D:\module_debug)
+2019-06-18 16:32:51 INFO No active profile set, falling back to default profiles: default
+2019-06-18 16:33:08 INFO Starting ModuleDebugApplication on DESKTOP-409V92T with PID 18208 (D:\module_debug\target\classes started by xiongxiaoyu in D:\module_debug)
+2019-06-18 16:33:08 INFO No active profile set, falling back to default profiles: default
+2019-06-18 16:33:37 INFO Starting ModuleDebugApplication on DESKTOP-409V92T with PID 16652 (D:\module_debug\target\classes started by xiongxiaoyu in D:\module_debug)
+2019-06-18 16:33:37 INFO No active profile set, falling back to default profiles: default
+2019-06-18 16:34:05 INFO Starting ModuleDebugApplication on DESKTOP-409V92T with PID 11828 (D:\module_debug\target\classes started by xiongxiaoyu in D:\module_debug)
+2019-06-18 16:34:05 INFO No active profile set, falling back to default profiles: default
+2019-06-18 16:34:42 INFO Starting ModuleDebugApplication on DESKTOP-409V92T with PID 10516 (D:\module_debug\target\classes started by xiongxiaoyu in D:\module_debug)
+2019-06-18 16:34:42 INFO No active profile set, falling back to default profiles: default
+2019-06-18 16:34:45 INFO Started ModuleDebugApplication in 3.055 seconds (JVM running for 4.734)
+2019-06-18 16:35:05 INFO Starting ModuleDebugApplication on DESKTOP-409V92T with PID 6392 (D:\module_debug\target\classes started by xiongxiaoyu in D:\module_debug)
+2019-06-18 16:35:05 INFO No active profile set, falling back to default profiles: default
+2019-06-18 16:35:07 INFO Started ModuleDebugApplication in 3.074 seconds (JVM running for 4.725)
+2019-06-18 16:35:10 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:35,name:scheduling-1
+2019-06-18 16:35:15 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:35,name:scheduling-1
+2019-06-18 16:35:20 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:57,name:scheduling-2
+2019-06-18 16:35:25 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:35,name:scheduling-1
+2019-06-18 16:35:30 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:58,name:scheduling-3
+2019-06-18 16:35:40 INFO Starting ModuleDebugApplication on DESKTOP-409V92T with PID 1596 (D:\module_debug\target\classes started by xiongxiaoyu in D:\module_debug)
+2019-06-18 16:35:40 INFO No active profile set, falling back to default profiles: default
+2019-06-18 16:35:43 INFO Started ModuleDebugApplication in 3.562 seconds (JVM running for 5.163)
+2019-06-18 16:36:05 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:36,name:scheduling-1
+2019-06-20 10:59:28 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 14252 (started by xiongxiaoyu in D:\module_debug)
+2019-06-20 10:59:28 INFO No active profile set, falling back to default profiles: default
+2019-06-20 10:59:39 INFO Started UserRepositoryTest in 11.821 seconds (JVM running for 16.506)
+2019-06-20 10:59:40 INFO ScheduledTest.executeFileDownLoadTask 定时任务1:26,name:scheduling-1
+2019-06-20 11:00:54 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 10396 (started by xiongxiaoyu in D:\module_debug)
+2019-06-20 11:00:54 INFO No active profile set, falling back to default profiles: default
+2019-06-20 11:01:03 INFO Started UserRepositoryTest in 9.406 seconds (JVM running for 11.375)
+2019-06-20 11:04:27 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 16432 (started by xiongxiaoyu in D:\module_debug)
+2019-06-20 11:04:27 INFO No active profile set, falling back to default profiles: default
+2019-06-20 11:04:36 INFO Started UserRepositoryTest in 9.086 seconds (JVM running for 10.865)
+2019-06-20 11:05:31 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 7932 (started by xiongxiaoyu in D:\module_debug)
+2019-06-20 11:05:31 INFO No active profile set, falling back to default profiles: default
+2019-06-20 11:05:40 INFO Started UserRepositoryTest in 9.682 seconds (JVM running for 11.367)
+2019-06-20 11:06:06 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 17460 (started by xiongxiaoyu in D:\module_debug)
+2019-06-20 11:06:06 INFO No active profile set, falling back to default profiles: default
+2019-06-20 11:06:14 INFO Started UserRepositoryTest in 8.931 seconds (JVM running for 10.502)
+2019-06-20 11:10:36 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 13668 (started by xiongxiaoyu in D:\module_debug)
+2019-06-20 11:10:36 INFO No active profile set, falling back to default profiles: default
+2019-06-20 11:10:45 INFO Started UserRepositoryTest in 9.465 seconds (JVM running for 11.123)
+2019-06-20 11:12:32 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 19404 (started by xiongxiaoyu in D:\module_debug)
+2019-06-20 11:12:32 INFO No active profile set, falling back to default profiles: default
+2019-06-20 11:13:04 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 17672 (started by xiongxiaoyu in D:\module_debug)
+2019-06-20 11:13:04 INFO No active profile set, falling back to default profiles: default
+2019-06-20 11:14:28 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 19408 (started by xiongxiaoyu in D:\module_debug)
+2019-06-20 11:14:28 INFO No active profile set, falling back to default profiles: default
+2019-06-20 11:14:38 INFO Started UserRepositoryTest in 10.173 seconds (JVM running for 12.315)
+2019-06-20 11:15:13 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 6612 (started by xiongxiaoyu in D:\module_debug)
+2019-06-20 11:15:13 INFO No active profile set, falling back to default profiles: default
+2019-06-20 11:15:22 INFO Started UserRepositoryTest in 9.115 seconds (JVM running for 10.642)
+2019-06-20 11:18:46 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 12772 (started by xiongxiaoyu in D:\module_debug)
+2019-06-20 11:18:46 INFO No active profile set, falling back to default profiles: default
+2019-06-20 11:18:56 INFO Started UserRepositoryTest in 9.641 seconds (JVM running for 11.244)
+2019-06-20 11:29:13 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 1008 (started by xiongxiaoyu in D:\module_debug)
+2019-06-20 11:29:13 INFO No active profile set, falling back to default profiles: default
+2019-06-20 11:29:22 INFO Started UserRepositoryTest in 9.018 seconds (JVM running for 10.554)
+2019-06-20 11:29:49 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 5144 (started by xiongxiaoyu in D:\module_debug)
+2019-06-20 11:29:49 INFO No active profile set, falling back to default profiles: default
+2019-06-20 11:29:58 INFO Started UserRepositoryTest in 9.296 seconds (JVM running for 10.868)
+2019-06-20 11:35:58 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 1708 (started by xiongxiaoyu in D:\module_debug)
+2019-06-20 11:35:58 INFO No active profile set, falling back to default profiles: default
+2019-06-20 11:36:07 INFO Started UserRepositoryTest in 9.681 seconds (JVM running for 11.551)
+2019-06-20 11:39:23 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 20080 (started by xiongxiaoyu in D:\module_debug)
+2019-06-20 11:39:23 INFO No active profile set, falling back to default profiles: default
+2019-06-20 11:39:30 INFO Started UserRepositoryTest in 8.017 seconds (JVM running for 9.632)
+2019-06-20 11:39:49 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 10564 (started by xiongxiaoyu in D:\module_debug)
+2019-06-20 11:39:49 INFO No active profile set, falling back to default profiles: default
+2019-06-20 11:39:57 INFO Started UserRepositoryTest in 8.33 seconds (JVM running for 9.77)
+2019-06-21 10:50:48 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 4600 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 10:50:48 INFO No active profile set, falling back to default profiles: default
+2019-06-21 10:51:00 INFO Started UserRepositoryTest in 12.489 seconds (JVM running for 15.651)
+2019-06-21 10:52:02 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 12320 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 10:52:02 INFO No active profile set, falling back to default profiles: default
+2019-06-21 10:52:11 INFO Started UserRepositoryTest in 8.964 seconds (JVM running for 11.163)
+2019-06-21 11:30:38 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 17724 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 11:30:38 INFO No active profile set, falling back to default profiles: default
+2019-06-21 11:30:48 INFO Started UserRepositoryTest in 11.35 seconds (JVM running for 13.61)
+2019-06-21 16:00:45 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 8084 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 16:00:45 INFO No active profile set, falling back to default profiles: default
+2019-06-21 16:00:56 INFO Started UserRepositoryTest in 12.954 seconds (JVM running for 15.818)
+2019-06-21 16:01:41 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 11772 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 16:01:41 INFO No active profile set, falling back to default profiles: default
+2019-06-21 16:01:50 INFO Started UserRepositoryTest in 8.886 seconds (JVM running for 10.886)
+2019-06-21 16:02:47 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 23000 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 16:02:47 INFO No active profile set, falling back to default profiles: default
+2019-06-21 16:03:55 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 3348 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 16:03:55 INFO No active profile set, falling back to default profiles: default
+2019-06-21 16:05:08 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 23516 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 16:05:08 INFO No active profile set, falling back to default profiles: default
+2019-06-21 16:08:31 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 21808 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 16:08:31 INFO No active profile set, falling back to default profiles: default
+2019-06-21 16:08:41 INFO Started UserRepositoryTest in 9.891 seconds (JVM running for 11.463)
+2019-06-21 16:16:48 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 21744 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 16:16:48 INFO No active profile set, falling back to default profiles: default
+2019-06-21 16:16:58 INFO Started UserRepositoryTest in 10.89 seconds (JVM running for 12.382)
+2019-06-21 17:29:53 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 856 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 17:29:53 INFO No active profile set, falling back to default profiles: default
+2019-06-21 17:30:10 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 23176 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 17:30:10 INFO No active profile set, falling back to default profiles: default
+2019-06-21 17:30:23 INFO Started UserRepositoryTest in 12.961 seconds (JVM running for 14.984)
+2019-06-21 17:41:05 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 9856 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 17:41:05 INFO No active profile set, falling back to default profiles: default
+2019-06-21 17:41:14 INFO Started UserRepositoryTest in 9.873 seconds (JVM running for 11.573)
+2019-06-21 17:43:37 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 14540 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 17:43:37 INFO No active profile set, falling back to default profiles: default
+2019-06-21 17:43:49 INFO Started UserRepositoryTest in 12.128 seconds (JVM running for 13.774)
+2019-06-21 17:43:56 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 660 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 17:43:56 INFO No active profile set, falling back to default profiles: default
+2019-06-21 17:44:11 INFO Started UserRepositoryTest in 15.264 seconds (JVM running for 16.758)
+2019-06-21 17:44:57 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 15652 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 17:44:57 INFO No active profile set, falling back to default profiles: default
+2019-06-21 17:45:06 INFO Started UserRepositoryTest in 9.564 seconds (JVM running for 11.408)
+2019-06-21 17:46:42 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 7244 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 17:46:42 INFO No active profile set, falling back to default profiles: default
+2019-06-21 17:46:52 INFO Started UserRepositoryTest in 10.347 seconds (JVM running for 12.019)
+2019-06-21 17:48:46 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 11400 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 17:48:46 INFO No active profile set, falling back to default profiles: default
+2019-06-21 17:48:54 INFO Started UserRepositoryTest in 8.884 seconds (JVM running for 10.277)
+2019-06-21 17:49:35 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 7064 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 17:49:35 INFO No active profile set, falling back to default profiles: default
+2019-06-21 17:49:43 INFO Started UserRepositoryTest in 8.551 seconds (JVM running for 9.913)
+2019-06-21 17:50:30 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 68 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 17:50:30 INFO No active profile set, falling back to default profiles: default
+2019-06-21 17:50:39 INFO Started UserRepositoryTest in 8.938 seconds (JVM running for 10.716)
+2019-06-21 17:52:30 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 20888 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 17:52:30 INFO No active profile set, falling back to default profiles: default
+2019-06-21 17:52:41 INFO Started UserRepositoryTest in 11.811 seconds (JVM running for 13.335)
+2019-06-21 17:53:49 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 15208 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 17:53:49 INFO No active profile set, falling back to default profiles: default
+2019-06-21 17:53:59 INFO Started UserRepositoryTest in 9.672 seconds (JVM running for 11.214)
+2019-06-21 17:56:05 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 17536 (started by xiongxiaoyu in D:\module_debug)
+2019-06-21 17:56:05 INFO No active profile set, falling back to default profiles: default
+2019-06-21 17:56:19 INFO Started UserRepositoryTest in 14.192 seconds (JVM running for 15.682)
+2019-06-24 10:01:19 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 23940 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 10:01:19 INFO No active profile set, falling back to default profiles: default
+2019-06-24 10:01:31 INFO Started UserRepositoryTest in 12.317 seconds (JVM running for 14.501)
+2019-06-24 10:02:55 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 21440 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 10:02:55 INFO No active profile set, falling back to default profiles: default
+2019-06-24 10:03:05 INFO Started UserRepositoryTest in 10.75 seconds (JVM running for 12.402)
+2019-06-24 10:04:30 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 13640 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 10:04:30 INFO No active profile set, falling back to default profiles: default
+2019-06-24 10:04:41 INFO Started UserRepositoryTest in 10.559 seconds (JVM running for 12.138)
+2019-06-24 10:06:01 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 7732 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 10:06:01 INFO No active profile set, falling back to default profiles: default
+2019-06-24 10:06:12 INFO Started UserRepositoryTest in 11.318 seconds (JVM running for 12.709)
+2019-06-24 10:06:42 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 23668 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 10:06:42 INFO No active profile set, falling back to default profiles: default
+2019-06-24 10:06:53 INFO Started UserRepositoryTest in 11.101 seconds (JVM running for 12.481)
+2019-06-24 10:59:29 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 12164 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 10:59:29 INFO No active profile set, falling back to default profiles: default
+2019-06-24 10:59:40 INFO Started UserRepositoryTest in 11.028 seconds (JVM running for 12.509)
+2019-06-24 11:01:16 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 18692 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:01:16 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:01:27 INFO Started UserRepositoryTest in 11.054 seconds (JVM running for 12.723)
+2019-06-24 11:02:30 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 12972 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:02:30 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:02:39 INFO Started UserRepositoryTest in 9.658 seconds (JVM running for 11.182)
+2019-06-24 11:03:25 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 20384 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:03:25 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:03:34 INFO Started UserRepositoryTest in 9.609 seconds (JVM running for 11.343)
+2019-06-24 11:07:05 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 18964 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:07:05 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:07:16 INFO Started UserRepositoryTest in 10.882 seconds (JVM running for 12.811)
+2019-06-24 11:07:59 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 17020 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:07:59 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:08:10 INFO Started UserRepositoryTest in 11.563 seconds (JVM running for 13.415)
+2019-06-24 11:10:54 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 19540 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:10:54 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:11:03 INFO Started UserRepositoryTest in 9.79 seconds (JVM running for 11.626)
+2019-06-24 11:13:29 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 15908 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:13:29 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:13:38 INFO Started UserRepositoryTest in 8.874 seconds (JVM running for 10.296)
+2019-06-24 11:14:06 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 23704 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:14:06 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:14:16 INFO Started UserRepositoryTest in 9.653 seconds (JVM running for 11.36)
+2019-06-24 11:14:54 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 9076 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:14:54 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:15:03 INFO Started UserRepositoryTest in 8.91 seconds (JVM running for 10.354)
+2019-06-24 11:15:31 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 24940 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:15:31 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:15:40 INFO Started UserRepositoryTest in 9.421 seconds (JVM running for 10.987)
+2019-06-24 11:16:16 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 25264 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:16:16 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:16:25 INFO Started UserRepositoryTest in 9.326 seconds (JVM running for 10.817)
+2019-06-24 11:16:46 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 21208 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:16:46 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:16:55 INFO Started UserRepositoryTest in 9.153 seconds (JVM running for 10.642)
+2019-06-24 11:17:58 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 14028 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:17:58 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:18:06 INFO Started UserRepositoryTest in 9.247 seconds (JVM running for 10.75)
+2019-06-24 11:24:59 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 20616 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:24:59 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:25:08 INFO Started UserRepositoryTest in 8.852 seconds (JVM running for 10.269)
+2019-06-24 11:26:12 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 7508 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:26:12 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:26:21 INFO Started UserRepositoryTest in 9.295 seconds (JVM running for 10.721)
+2019-06-24 11:27:19 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 17536 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:27:19 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:27:29 INFO Started UserRepositoryTest in 10.873 seconds (JVM running for 12.655)
+2019-06-24 11:28:37 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 9288 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:28:37 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:28:47 INFO Started UserRepositoryTest in 9.766 seconds (JVM running for 11.164)
+2019-06-24 11:32:08 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 9280 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:32:08 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:32:39 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 20068 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:32:39 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:33:44 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 16824 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:33:44 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:34:27 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 18724 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:34:27 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:35:35 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 11284 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:35:35 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:35:44 INFO Started UserRepositoryTest in 9.138 seconds (JVM running for 10.546)
+2019-06-24 11:36:52 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 23844 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:36:52 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:37:51 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 18932 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 11:37:51 INFO No active profile set, falling back to default profiles: default
+2019-06-24 11:37:59 INFO Started UserRepositoryTest in 9.018 seconds (JVM running for 10.418)
+2019-06-24 12:01:59 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 22216 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 12:01:59 INFO No active profile set, falling back to default profiles: default
+2019-06-24 12:02:09 INFO Started UserRepositoryTest in 9.816 seconds (JVM running for 11.381)
+2019-06-24 12:06:53 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 18780 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 12:06:53 INFO No active profile set, falling back to default profiles: default
+2019-06-24 12:07:02 INFO Started UserRepositoryTest in 9.395 seconds (JVM running for 16.35)
+2019-06-24 13:03:57 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 21596 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 13:03:57 INFO No active profile set, falling back to default profiles: default
+2019-06-24 13:04:06 INFO Started UserRepositoryTest in 9.349 seconds (JVM running for 13.879)
+2019-06-24 13:07:30 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 6664 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 13:07:30 INFO No active profile set, falling back to default profiles: default
+2019-06-24 13:07:39 INFO Started UserRepositoryTest in 9.015 seconds (JVM running for 10.684)
+2019-06-24 14:10:35 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 24432 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 14:10:35 INFO No active profile set, falling back to default profiles: default
+2019-06-24 14:10:43 INFO Started UserRepositoryTest in 9.025 seconds (JVM running for 10.381)
+2019-06-24 14:11:57 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 6976 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 14:11:57 INFO No active profile set, falling back to default profiles: default
+2019-06-24 14:12:05 INFO Started UserRepositoryTest in 8.448 seconds (JVM running for 9.826)
+2019-06-24 14:12:44 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 24336 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 14:12:44 INFO No active profile set, falling back to default profiles: default
+2019-06-24 14:12:52 INFO Started UserRepositoryTest in 8.405 seconds (JVM running for 9.837)
+2019-06-24 14:28:25 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 15700 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 14:28:25 INFO No active profile set, falling back to default profiles: default
+2019-06-24 14:28:36 INFO Started UserRepositoryTest in 11.443 seconds (JVM running for 13.246)
+2019-06-24 14:28:43 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 14240 (started by xiongxiaoyu in D:\module_debug)
+2019-06-24 14:28:43 INFO No active profile set, falling back to default profiles: default
+2019-06-24 14:28:52 INFO Started UserRepositoryTest in 9.303 seconds (JVM running for 10.98)
+2019-06-25 09:22:57 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 10524 (started by xiongxiaoyu in D:\module_debug)
+2019-06-25 09:22:57 INFO No active profile set, falling back to default profiles: default
+2019-06-25 09:23:09 INFO Started UserRepositoryTest in 12.429 seconds (JVM running for 15.831)
+2019-06-25 09:34:39 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 16764 (started by xiongxiaoyu in D:\module_debug)
+2019-06-25 09:34:39 INFO No active profile set, falling back to default profiles: default
+2019-06-25 09:34:48 INFO Started UserRepositoryTest in 9.176 seconds (JVM running for 10.865)
+2019-06-25 09:35:48 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 22008 (started by xiongxiaoyu in D:\module_debug)
+2019-06-25 09:35:48 INFO No active profile set, falling back to default profiles: default
+2019-06-25 09:35:57 INFO Started UserRepositoryTest in 9.338 seconds (JVM running for 10.758)
+2019-06-25 09:36:39 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 14248 (started by xiongxiaoyu in D:\module_debug)
+2019-06-25 09:36:39 INFO No active profile set, falling back to default profiles: default
+2019-06-25 09:36:48 INFO Started UserRepositoryTest in 9.522 seconds (JVM running for 10.962)
+2019-06-25 09:54:57 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 10268 (started by xiongxiaoyu in D:\module_debug)
+2019-06-25 09:54:57 INFO No active profile set, falling back to default profiles: default
+2019-06-25 09:55:06 INFO Started UserRepositoryTest in 9.608 seconds (JVM running for 11.256)
+2019-06-25 09:55:39 INFO Starting UserRepositoryTest on DESKTOP-409V92T with PID 13360 (started by xiongxiaoyu in D:\module_debug)
+2019-06-25 09:55:39 INFO No active profile set, falling back to default profiles: default
+2019-06-25 09:55:48 INFO Started UserRepositoryTest in 9.164 seconds (JVM running for 10.751)
